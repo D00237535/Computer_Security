@@ -5,7 +5,6 @@ public class CA1 {
         int shiftover = 3;
         String decryptedMessage = "";
         String decryptedMessage2 = "";
-        int key = 0;
 
         for(int i = 0; i < cipher.length(); i++)
         {
